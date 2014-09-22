@@ -16,11 +16,16 @@ Controls
 
 Keyboard:
 W - move up
+
 A - move left
+
 S - move down
+
 D - move right
+
 E - open door
 
 Mouse:
 Left Click - fire gun at reticle
+
 Right Click - use item if you currently have one
